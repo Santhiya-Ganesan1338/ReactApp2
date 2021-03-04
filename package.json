@@ -13,8 +13,17 @@
     "react-dom": "^17.0.1",
     "react-router-dom": "^5.2.0",
     "react-scripts": "4.0.1",
-    "web-vitals": "^0.2.4"
+    "web-vitals": "^0.2.4",
+    "firebase": "^6.6.2",
+    "firebase-admin": "^8.6.0",
+    "firebase-functions": "^3.13.1",
+    "gapi": "0.0.3",
+    "gapi-script": "^1.1.0",
+    "http2": "^3.3.7",
+    "msal": "^1.4.6",
+    "oauth": "^0.9.15"
   },
+  "devDependencies": {},
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
